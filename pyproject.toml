@@ -10,6 +10,7 @@ requires-python = ">=3.13"
 dependencies = [
     "galois>=0.4.11",
     "numpy>=2.5.2",
+    "ortools>=9.15.6755",
     "pytest>=9.1.1",
 ]
 
